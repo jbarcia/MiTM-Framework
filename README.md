@@ -29,9 +29,6 @@ Web - BDFproxy/BDFfactory
 Web - Hamster/Ferret
   Intercept web cookies for stealing sessions
 
-Original Blog Post:
-https://github.com/CroweCybersecurity/MiTM-CaptivePortal
-
 
 Some other options also include adding SSLstrip to all attacks and for picky gateways half duplex.
 
